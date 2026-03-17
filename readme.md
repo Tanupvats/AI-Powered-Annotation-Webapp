@@ -83,7 +83,7 @@ streamlit run app.py
 * **Zoom/Pan:** Use the mouse wheel to zoom in for detail. Toggle to "Pan" mode to move around the image without drawing.
 * **Rotation:** Use the rotation buttons to fix the orientation of mobile-uploaded photos before you start annotating.
 * **Undo Support:** Use the "Undo" button in the Lasso and Inpaint tools to correct mistakes without restarting your trace.
-```
+
 
 ##  Author
 
