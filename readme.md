@@ -10,7 +10,7 @@ This application bridges the gap between high-performance Python image processin
 
 The system utilizes a **Bidirectional Component Model** to synchronize a heavy JavaScript frontend with a mathematically intense Python backend.
 
-![Full Stack Architecture](HLSD_WEB_APP.jpg)
+![Full Stack Architecture](HLSD_WEB_APP.png)
 
 ### Key Engineering Pillars:
 * **React 18 & Fabric.js Canvas:** Handles high-FPS interactions, zoom/pan deltas, and pixel-perfect coordinate tracking.
